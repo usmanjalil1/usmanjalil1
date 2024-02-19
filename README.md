@@ -9,7 +9,7 @@
 ### My Interest :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,cpp,vscode,tensorflow,opencv,ultralytics,aws,bash&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,cpp,vscode,tensorflow,opencv,ultralytics,aws,bash,docker&perline=6" />
   </a>
 </p>
 
@@ -27,8 +27,5 @@
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=usmanjalil1&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanjalil1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=usmanjalil1&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
