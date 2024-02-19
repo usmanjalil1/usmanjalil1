@@ -9,7 +9,7 @@
 ### My Interest :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,python,cpp,vscode,tensorflow,opencv,pytorch,sklearn,aws,bash,docker&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,cpp,vscode,tensorflow,opencv,pytorch,sklearn,aws,dart,docker&perline=6" />
   </a>
 </p>
 
