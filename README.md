@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=ibrahimmansur4&color=grey)
 
 - 🔭 ML Engineer.
-- 🌱 Currently Focused on Building Production Graded ML Models by deploying them on SageMaker or Self Hosted AWS EC2 Machine.
 
 
 
